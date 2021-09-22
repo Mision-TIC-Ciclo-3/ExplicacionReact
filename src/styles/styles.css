@@ -114,3 +114,10 @@ ul {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
 }
+
+.backGroundRojo {
+  background-color: red;
+}
+.backGroundVerde {
+  background-color: green;
+}
